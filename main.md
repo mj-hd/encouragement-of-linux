@@ -13,7 +13,7 @@ Web: [http://devlion.net](http://devlion.net)
 ---
 
 # こんなのつくりました
-
+ 
 [新電力バンク](https://www.shindenryoku.pw)  
 ![](images/shindenryoku.png)
 
@@ -34,11 +34,12 @@ Web: [http://devlion.net](http://devlion.net)
 ---
 
 # 本題
+* もうパソコンは買いましたか？
 
 ---
-
+ 
 # Linuxを入れましょう
-
+ 
 ![Linux Penguin](images/linux.jpg)
 
 
@@ -69,8 +70,20 @@ Web: [http://devlion.net](http://devlion.net)
 
 # メリット
 * 勉強になる
-* 日本語のWikiがかなり充実
-* パッケージ数が尋常じゃない(ソフトを楽にインストールできる)
+* 日本語のWikiがかなり充実([ArchLinuxJP Wiki](https://wiki.archlinuxjp.org/index.php/%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89))
+* パッケージ数が尋常じゃない(ソフトを簡単にインストールできる)
+
+
+
+# なぜ勉強になるか？
+* インストールが手動(OSの起動方法に関する知識がかなり付く)
+* 何か問題が起こった時、C言語などの知識が必要
+* あまりゲームができない
+
+
+
+# インストールの様子
+![](images/archlinux_install.png)
 
 ---
 
@@ -82,21 +95,22 @@ Web: [http://devlion.net](http://devlion.net)
 
 
 
+# 実際のArchLinuxの様子
+![](images/arch_desktop.png)
+
+
+
 # DisplayManager
 * LightDMがおすすめ
 * 正直なんでもいい気がする
 
 ![](images/overview.png)
 
----
-
-# CUI環境
-
 
 
 # XMonad
 * タイル型WM
-* Haskellで設定ファイルを書く
+* Haskell(言語)で設定ファイルを書く
 * 勉強になる
 
 ```
@@ -120,6 +134,10 @@ main=do
 * C言語などとはまったく別の考え方が必要
 
 ![](images/haskell.png)
+
+---
+
+# CUI環境
 
 
 
